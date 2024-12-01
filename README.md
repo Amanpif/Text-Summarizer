@@ -21,3 +21,5 @@ pip install -r requirements.txt
 pip install flask torch transformers
 
 
+
+
